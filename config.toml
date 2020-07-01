@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://blog.ispbrasil.com.br/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Fedora Roots Blog"
 theme = "ananke"
