@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fedora Roots Blog</title>
+    <link>http://blog.ispbrasil.com.br/</link>
+    <description>Recent content on Fedora Roots Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jun 2020 22:48:09 -0300</lastBuildDate>
+    
+        <atom:link href="http://blog.ispbrasil.com.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>http://blog.ispbrasil.com.br/posts/</link>
+      <pubDate>Tue, 30 Jun 2020 22:48:09 -0300</pubDate>
+      
+      <guid>http://blog.ispbrasil.com.br/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
